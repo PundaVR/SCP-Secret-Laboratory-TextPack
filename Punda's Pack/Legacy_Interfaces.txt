@@ -1,11 +1,11 @@
 GIVE ORDERS
 FOLLOW ORDERS
 SAME RANK
-Class-D Personnel escaped
-Scientists survived
+Involuntary Test Subject escaped
+Nerds survived
 Killed by SCP
 Terminated SCP subjects
-Alpha Warhead
+BIG BOMB
 Detonated
 Unused
 The next round will start in [time] seconds.
