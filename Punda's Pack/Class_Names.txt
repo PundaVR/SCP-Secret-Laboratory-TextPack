@@ -1,18 +1,18 @@
-SCP-173
-Class-D Personnel
-Spectator
-SCP-106
-Nine-Tailed Fox Scientist
-SCP-049
-Scientist
-SCP-079
-Chaos Insurgency
-SCP-096
-SCP-049-2
-Nine-Tailed Fox Lieutenant
-Nine-Tailed Fox Commander
-Nine-Tailed Fox Cadet
-Tutorial
-Facility Guard
-SCP-939-53
-SCP-939-89
+<color=#ff00A8>The Nut</color>
+<color=#FF6800>Involuntary Test Subject>
+Dead Idiot
+<color=#ff00A8>Larry</color>
+<color=#23AEDE>Smart Ape</color>
+<color=#ff00A8>The Doctor</color>
+<color=#FAD814>Nerd</color>
+<color=#ff00A8>Sentient Computer God</color>
+<color=#63EA0B>Chaotic Idiot</color>
+<color=#ff00A8>Shy Guy</color>
+<color=#ff00A8>Zombie</color>
+<color=#23AEDE>Ape</color>
+<color=#23AEDE>Gorilla</color>
+<color=#23AEDE>Monke</color>
+<color=#FF0000>Mod Stuff</color>
+<color=#979797>Chimpanzee</color>
+<color=#ff00A8>Doggo</color>
+<color=#ff00A8>Spotto</color>
