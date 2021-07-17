@@ -1,22 +1,22 @@
 Janitor Keycard:No description
-Scientist Keycard:No description
+Nerd Keycard:No description
 Research Supervisor Keycard:No description
 Zone Manager Keycard:No description
-Guard Keycard:No description
-MTF Cadet Keycard:No description
+Chimpanzee Keycard:No description
+MTF Monke Keycard:No description
 Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
+MTF Ape Keycard:No description
+MTF Gorilla Keycard:No description
 Facility Manager Keycard:No description
-Chaos Insurgency Access Device
+Chaotic Idiot Access Device
 O5-level Keycard
 Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
 COM-15 Sidearm:No description
 First AID Kit:Heals your injuries.
 Flashlight:Let there be light!
-Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-SCP-500:The panacea.
-SCP-207:Harmfully increases motor skills.
+Big Gun:Mobile high-intensity electrical discharge thrower.
+Miracle Meds:The panacea.
+Cola:Harmfully increases motor skills.
 Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
 MTF-E11-SR:No description
 Project 90:No description
@@ -29,8 +29,8 @@ Disarmer:Left click disarms, right click unties.\nHold E on someone who is disar
 Dropped 7.62:No description.
 Dropped 9mm:No description.
 USP:No description.
-SCP-018:Superball able to bounce with extreme efficiency.
-SCP-268:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
+Bouncy Ball:Superball able to bounce with extreme efficiency.
+The Invisible Hat:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
 Adrenaline:Temporarily increases endurance.
 Painkillers:Relieve minor injuries.
 Coin:You're not sure why you'd want to carry this around...
