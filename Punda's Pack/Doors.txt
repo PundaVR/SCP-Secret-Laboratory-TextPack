@@ -1,8 +1,8 @@
 <color=green>OPEN</color>
 <color=#07A2FF>CLOSED</color>
 <color=orange>MOVING</color>
-<color=red>LOCKDOWN</color>
-<color=red>ERROR</color>
+<color=red>DOOR STUCK</color>
+<color=red>DOOR GONE</color>
 <color=red>ACCESS DENIED</color>
 <color=green>ACCESS GRANTED</color>
 <color=#07A2FF>KEYCARD REQUIRED</color>
